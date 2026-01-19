@@ -1,5 +1,21 @@
 # @medusajs/dashboard
 
+## 2.12.6
+
+### Patch Changes
+
+- [`19f274523cda2cf13fc9194d72b9d8a71aba264c`](undefined) - add cloud auto-login
+
+- [`c5b919850cf4a133686606bbff66b2bc6d6d3ae0`](undefined) - fix(dashboard): filter feed channel notifications in admin dashboard
+
+- [`31dc33103620a808a6ded8ce1d5532c27d9daa1e`](undefined) - chore(dashboard): polish translations for refund reasons domain
+
+- Updated dependencies []:
+  - @medusajs/js-sdk@2.12.6
+  - @medusajs/admin-shared@2.12.6
+  - @medusajs/icons@2.12.6
+  - @medusajs/ui@4.0.34
+
 ## 2.12.5
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # Change Log
 
+## 2.12.6
+
+### Patch Changes
+
+- [#14555](https://github.com/medusajs/medusa/pull/14555) [`87a8bb35bf38759c5a1d9dfebd1a28bb17488aaa`](https://github.com/medusajs/medusa/commit/87a8bb35bf38759c5a1d9dfebd1a28bb17488aaa) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(create-medusa-app): fix error handling when thrown error is a string
+
+- [#14443](https://github.com/medusajs/medusa/pull/14443) [`5f90cd0650eb11bfbd27cc326ca8c261fc588c55`](https://github.com/medusajs/medusa/commit/5f90cd0650eb11bfbd27cc326ca8c261fc588c55) Thanks [@shahednasser](https://github.com/shahednasser)! - feat(create-medusa-app): add support for pnpm and specifying package manager
+
+- Updated dependencies [[`1ca3516a5cbb059ad79fe483cd8e1d6a7ebca23b`](https://github.com/medusajs/medusa/commit/1ca3516a5cbb059ad79fe483cd8e1d6a7ebca23b)]:
+  - @medusajs/deps@2.12.6
+  - @medusajs/telemetry@2.12.6
+
 ## 2.12.5
 
 ### Patch Changes
